@@ -13,8 +13,6 @@ public class Test2 {
 	StringBuffer rev;
 	StringBuffer sb = new StringBuffer(String.valueOf(num));
 	 rev =sb.reverse();
-	
-		
 		
 		System.out.println(rev);
 
